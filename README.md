@@ -2,4 +2,4 @@
 print hello world
 study github
 # HelloWorld
-print hello world
+print hello 
